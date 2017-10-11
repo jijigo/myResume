@@ -24,6 +24,9 @@ html5/pug、css3/scss/sass、Javascript、jQuery、Ajax、Boostrap、Vue
     - 使用Vue框架套用其中兩個頁面
     - 串接Google Map API產生路線
     - 透過Sortable.js實現拖曳功能
+3. 小作品：vue-todolist（https://github.com/jijigo/vue-todolist）
+    - 使用vue-cli + webpack建制專案
+
 
 #### 聯絡資訊：
 > phone: 0923223321
