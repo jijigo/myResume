@@ -18,7 +18,7 @@ html5/pug、css3/scss/sass、Javascript、jQuery、Ajax、Boostrap、Vue
 1. 前公司網站：[wogogo](https://www.wogogo.com/)
     - 主要和另外ㄧ個前端同事分工切版，切版同時需要包含RWD
     - 使用call ajax呼叫後端API，例如[加入會員](https://www.wogogo.com/register/register_mail)頁面的信箱欄位需要call ajax來判斷信箱是否已被註冊
-     ![](https://i.imgur.com/gbMXDwO.png)
+    ![](https://i.imgur.com/gbMXDwO.png)
 
     - 串接[Google Map API](https://developers.google.com/maps/web/?hl=zh-tw)提供搜尋地點功能
     ![](https://i.imgur.com/fIEKbMD.png)
